@@ -1,0 +1,82 @@
+{
+  "home": {
+    "name": "Saral Dulal",
+    "initials": "SD.",
+    "description": "Creative Developer & Designer crafting minimal, intuitive, and memorable digital experiences.",
+    "photo": "https://picsum.photos/seed/saralhome/800/1066?grayscale"
+  },
+  "about": {
+    "title": "About",
+    "photo": "https://picsum.photos/seed/saral/800/1066?grayscale",
+    "description": "I believe in the power of simplicity. My work focuses on stripping away the unnecessary to reveal the essential core of a product or brand.",
+    "details": [
+      { "label": "Date of Birth", "value": "October 14, 1996" },
+      { "label": "Education", "value": "B.Des in Interaction Design" },
+      { "label": "Experience", "value": "5+ Years" },
+      { "label": "Location", "value": "New York, NY" },
+      { "label": "University", "value": "Parsons School of Design" }
+    ]
+  },
+  "selectedWorks": {
+    "title": "Selected Work",
+    "projects": [
+      {
+        "name": "Aura",
+        "description": "A minimal meditation app designed to help users find focus and clarity through soundscapes.",
+        "link": "#",
+        "photo": "https://picsum.photos/seed/aura/1600/900?blur=2"
+      },
+      {
+        "name": "Lumina",
+        "description": "An editorial platform for contemporary photography and visual arts.",
+        "link": "#",
+        "photo": "https://picsum.photos/seed/lumina/1600/900?grayscale"
+      },
+      {
+        "name": "Echo",
+        "description": "A brutalist architecture portfolio showcasing raw concrete structures and spatial design.",
+        "link": "#",
+        "photo": "https://picsum.photos/seed/echo/1600/900?blur=1"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "time": "2022 — Present",
+        "title": "Senior Creative Developer",
+        "company": "Studio Niki",
+        "description": "Leading front-end development for high-profile clients in fashion and arts. Focusing on WebGL, smooth animations, and performant architectures."
+      },
+      {
+        "time": "2019 — 2022",
+        "title": "Frontend Engineer",
+        "company": "Digital Agency",
+        "description": "Developed responsive, accessible, and interactive web applications. Collaborated closely with designers to bring concepts to life."
+      },
+      {
+        "time": "2017 — 2019",
+        "title": "Web Designer",
+        "company": "Freelance",
+        "description": "Designed and built custom WordPress themes and static sites for local businesses and independent artists."
+      },
+      {
+        "time": "2015 — 2017",
+        "title": "Junior Designer",
+        "company": "Creative Studio",
+        "description": "Assisted in creating brand identities, marketing materials, and initial wireframes for web projects."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "description": "Currently available for freelance opportunities and collaborative projects.",
+    "email": "hello@saraldulal.com",
+    "socials": [
+      { "name": "Instagram", "link": "#" },
+      { "name": "LinkedIn", "link": "#" },
+      { "name": "GitHub", "link": "#" }
+    ]
+  }
+}
