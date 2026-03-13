@@ -1,82 +1,105 @@
 {
   "home": {
     "name": "Saral Dulal",
-    "initials": "SD.",
-    "description": "Creative Developer & Designer crafting minimal, intuitive, and memorable digital experiences.",
-    "photo": "https://picsum.photos/seed/saralhome/800/1066?grayscale"
+    "initials": "Welcome to My Portfolio",
+    "description": "a Computer Engineering student passionate about leveraging technology to solve real-world challenges.",
+    "photo": "assets/image.jpg"
   },
   "about": {
     "title": "About",
-    "photo": "https://picsum.photos/seed/saral/800/1066?grayscale",
+    "photo": "assets/image.jpg",
     "description": "I believe in the power of simplicity. My work focuses on stripping away the unnecessary to reveal the essential core of a product or brand.",
     "details": [
-      { "label": "Date of Birth", "value": "October 14, 1996" },
-      { "label": "Education", "value": "B.Des in Interaction Design" },
-      { "label": "Experience", "value": "5+ Years" },
-      { "label": "Location", "value": "New York, NY" },
-      { "label": "University", "value": "Parsons School of Design" }
+      { "label": "Date of Birth", "value": "August 18, 2003" },
+      { "label": "Education", "value": "Bachelors in Computer Engineering" },
+      { "label": "University", "value": "Khwopa College of Engineering" }
     ]
   },
   "selectedWorks": {
-    "title": "Selected Work",
+    "title": "Projects",
     "projects": [
       {
-        "name": "Aura",
-        "description": "A minimal meditation app designed to help users find focus and clarity through soundscapes.",
+        "name": "Recognition of Printed and Handwritten Ranjana Script Characters Using YOLO",
+        "description": "A robust character recognition system for Ranjana script by leveraging the YOLO object detection model trained on a synthetically generated dataset and fine-tuned with handwritten data.",
         "link": "#",
-        "photo": "https://picsum.photos/seed/aura/1600/900?blur=2"
+        "photo": "assets/ranjana.png"
       },
       {
-        "name": "Lumina",
-        "description": "An editorial platform for contemporary photography and visual arts.",
+        "name": "Ghumti",
+        "description": "Intelligent RAG based chatbot powered by Llama 3 for real-time local bus routes, schedules, and optimized travel recommendations.",
         "link": "#",
-        "photo": "https://picsum.photos/seed/lumina/1600/900?grayscale"
+        "photo": "assets/chatbot.avif"
       },
       {
-        "name": "Echo",
-        "description": "A brutalist architecture portfolio showcasing raw concrete structures and spatial design.",
+        "name": "Sahayatri",
+        "description": "A travel app that bridges the gap between tourists and local guides. The app allows guides to showcase their expertise, offer customized tours, and interact with travelers, while tourists can easily find trusted guides. ",
         "link": "#",
-        "photo": "https://picsum.photos/seed/echo/1600/900?blur=1"
+        "photo": "assets/guide.avif"
+      },
+      {
+        "name": "Deepfake Image Detection and Localization",
+        "description": "Hybrid approach for deepfake image detection and localization, using Vision Graph Neural Networks (ViGNN) for detection and U-shaped Network (U-Net) for localization.",
+        "link": "#",
+        "photo": "assets/deepfake.jpeg"
+      },
+      {
+        "name": "BookEase",
+        "description": "A hotel booking system that allows users to view available rooms based on preferences, sort them on the basis of price, book rooms and view booking details.",
+        "link": "#",
+        "photo": "assets/hotel.avif"
       }
+
     ]
   },
   "experience": {
     "title": "Experience",
     "items": [
       {
-        "time": "2022 — Present",
-        "title": "Senior Creative Developer",
-        "company": "Studio Niki",
-        "description": "Leading front-end development for high-profile clients in fashion and arts. Focusing on WebGL, smooth animations, and performant architectures."
+        "time": "2024 — Present",
+        "title": "Operations Head",
+        "company": "Vanguard Tech",
+        "description": "Leading operations for a tech and digital marketing startup, overseeing project management, team coordination, and strategic planning."
       },
       {
-        "time": "2019 — 2022",
-        "title": "Frontend Engineer",
-        "company": "Digital Agency",
-        "description": "Developed responsive, accessible, and interactive web applications. Collaborated closely with designers to bring concepts to life."
+        "time": "November 2024 - February 2025",
+        "title": "Outreach Lead",
+        "company": "HULT PRIZE at KhCE, 2024/25",
+        "description": "Led outreach initiatives to secure sponsors and coordinate guest participation across multiple Hult Prize events."
       },
       {
-        "time": "2017 — 2019",
-        "title": "Web Designer",
-        "company": "Freelance",
-        "description": "Designed and built custom WordPress themes and static sites for local businesses and independent artists."
+        "time": "February 2025",
+        "title": "Participant",
+        "company": "CODEYATRA 2025, Himalayan College of Engineering",
+        "description": "Developed a RAG based chatbot that helps users find the local bus stop and answers all the queries regarding Nepal’s local transportation."
       },
       {
-        "time": "2015 — 2017",
-        "title": "Junior Designer",
-        "company": "Creative Studio",
-        "description": "Assisted in creating brand identities, marketing materials, and initial wireframes for web projects."
+        "time": "2023",
+        "title": "First Runner Up",
+        "company": "HULT PRIZE at KhCE, 2023/24",
+        "description": "Developed Chowk Chowk Ma, an all-in-one public bus info app idea."
+      },
+      {
+        "time": "2023",
+        "title": "First Runner Up",
+        "company": "Hacking for Humanity, 2023, Shequal Foundation",
+        "description": "Developed a mobile app that connects local guides with tourists to provide personalized travel experiences."
+      },
+      {
+        "time": "2022",
+        "title": "Semi-Finalist",
+        "company": "HULT PRIZE at IOE, 2022/23",
+        "description": "Developed Bichaar: Closing the Loop, a platform connecting thrift enthusiasts to foster a sustainable fashion community."
       }
     ]
   },
   "contact": {
     "title": "Let's Connect",
-    "description": "Currently available for freelance opportunities and collaborative projects.",
+    "description": "Available for freelance opportunities and collaborative projects.",
     "email": "saraldulal060@gmail.com",
     "socials": [
-      { "name": "Instagram", "link": "#" },
-      { "name": "LinkedIn", "link": "#" },
-      { "name": "GitHub", "link": "#" }
+      { "name": "Instagram", "link": "https://www.instagram.com/saral.dulal/" },
+      { "name": "LinkedIn", "link": "www.linkedin.com/in/saraldulal" },
+      { "name": "GitHub", "link": "https://github.com/saraldulal" }
     ]
   }
 }
