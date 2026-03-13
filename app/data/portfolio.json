@@ -37,7 +37,7 @@
         "photo": "/assets/guide.avif"
       },
       {
-        "name": "Deepfake Image Detection and Localization",
+        "name": "DIDL",
         "description": "Hybrid approach for deepfake image detection and localization, using Vision Graph Neural Networks (ViGNN) for detection and U-shaped Network (U-Net) for localization.",
         "link": "#",
         "photo": "/assets/deepfake.jpeg"
