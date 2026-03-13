@@ -3,11 +3,11 @@
     "name": "Saral Dulal",
     "initials": "Welcome to My Portfolio",
     "description": "a Computer Engineering student passionate about leveraging technology to solve real-world challenges.",
-    "photo": "assets/image.jpg"
+    "photo": "./assets/image.jpg"
   },
   "about": {
     "title": "About",
-    "photo": "assets/image.jpg",
+    "photo": "./assets/image.jpg",
     "description": "I believe in the power of simplicity. My work focuses on stripping away the unnecessary to reveal the essential core of a product or brand.",
     "details": [
       { "label": "Date of Birth", "value": "August 18, 2003" },
@@ -22,31 +22,31 @@
         "name": "Recognition of Printed and Handwritten Ranjana Script Characters Using YOLO",
         "description": "A robust character recognition system for Ranjana script by leveraging the YOLO object detection model trained on a synthetically generated dataset and fine-tuned with handwritten data.",
         "link": "#",
-        "photo": "assets/ranjana.png"
+        "photo": "./assets/ranjana.png"
       },
       {
         "name": "Ghumti",
         "description": "Intelligent RAG based chatbot powered by Llama 3 for real-time local bus routes, schedules, and optimized travel recommendations.",
         "link": "#",
-        "photo": "assets/chatbot.avif"
+        "photo": "./assets/chatbot.avif"
       },
       {
         "name": "Sahayatri",
         "description": "A travel app that bridges the gap between tourists and local guides. The app allows guides to showcase their expertise, offer customized tours, and interact with travelers, while tourists can easily find trusted guides. ",
         "link": "#",
-        "photo": "assets/guide.avif"
+        "photo": "./assets/guide.avif"
       },
       {
         "name": "Deepfake Image Detection and Localization",
         "description": "Hybrid approach for deepfake image detection and localization, using Vision Graph Neural Networks (ViGNN) for detection and U-shaped Network (U-Net) for localization.",
         "link": "#",
-        "photo": "assets/deepfake.jpeg"
+        "photo": "./assets/deepfake.jpeg"
       },
       {
         "name": "BookEase",
         "description": "A hotel booking system that allows users to view available rooms based on preferences, sort them on the basis of price, book rooms and view booking details.",
         "link": "#",
-        "photo": "assets/hotel.avif"
+        "photo": "./assets/hotel.avif"
       }
 
     ]
